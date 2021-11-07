@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92b052a3-a009-4209-8a13-3445862d335c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d45988bc-1db6-4bf6-8512-29ba5194eeb5</id>
+      <masked>false</masked>
+      <name>userfail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a42e2e92-4422-4b8a-b9a8-c41d4f675cca</id>
+      <masked>false</masked>
+      <name>passwordfail</name>
+   </variable>
+</TestCaseEntity>

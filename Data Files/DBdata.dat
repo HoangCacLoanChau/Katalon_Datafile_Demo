@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DBdata</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5c977d9c-3286-4bf8-bf5c-6307cce62fec</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlserver://localhost:1433;databaseName=LoginAccount</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>com.microsoft.sqlserver.jdbc.SQLServerDriver</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>NzQyMTQxMTg5</password>
+   <query>Select username,password
+from account</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>sa</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
