@@ -8,7 +8,7 @@ Test with variable map to Excel file or DataBase sqlServer:
 6.  : create Testsuite 
 7.  : add datafile which include excel file
 8. : map from datafile to variable in test case
-9.DB :
+9. DB :
 10. : set connect: JDBC driver ( SQL server ): com.microsoft.sqlserver.jdbc.SQLServerDriver
 11. : test connection
 12. : Create your SQL querry
