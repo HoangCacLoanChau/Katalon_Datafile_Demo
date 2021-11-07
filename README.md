@@ -1,5 +1,5 @@
 # Katalon_Datafile_Demo
-Test with variable map to Excel file or DataBase sqlServer:
+Test with variable map to Excel file or DataBase sqlServer with login function:
 1. Create test case 
 2. Set variable
 3. Create test file in DataFile  
